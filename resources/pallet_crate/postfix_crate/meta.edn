@@ -1,0 +1,11 @@
+{:header "postfix"
+ :title
+ "A [pallet](http://palletops.com/) crate to install and configure
+ [postfix](http://postfix.io)."
+ :git-repo "https://github.com/pallet/postfix-crate"
+ :api-docs "http://palletops.com/postfix-crate/0.8/api"
+ :annotated-docs "http://palletops.com/postfix-crate/0.8/annotated/uberdoc.html"
+ :tag-prefix ""
+ :artifact-id "postfix-crate"
+ :source-path "src/pallet/crate/postfix.clj"
+ :versions [{:pallet "0.8.0-RC.1" :version "0.8.0-SNAPSHOT"}]}
